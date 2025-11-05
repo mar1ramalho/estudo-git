@@ -1,2 +1,2 @@
 
-Repósitorio utilizado para aprender os primeros passos e comandos básicos do git.
+Repósitorio utilizado para aprender os primeros passos e comandos básicos do git pelo 4Linux.
